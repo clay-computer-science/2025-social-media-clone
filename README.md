@@ -12,14 +12,14 @@ Users should be able to:
 
 ## Table of Contents
 
-1. Overview
-2. Getting Started
-3. Phase 1
-4. Phase 2
-5. Phase 3
-6. Resources
-7. Contributing
-8. License
+1. [Overview](#overview)
+2. [Getting Started](#getting-started)
+3. [Phase 0](#phase-0)
+4. [Phase 1](#phase-1)
+5. [Phase 2](#phase-2)
+6. [Phase 3](#phase-3)
+7. [Resources](#resources)
+8. [Contributing](#contributing)
 
 ## Overview
 
@@ -31,9 +31,9 @@ This project will be divided into 3 phases:
 
 Phases 1 and 2 will use a framework called Next.js while Phase 3 will use a framework called expo. More information about these frameworks can be found in the resources section.
 
-### Getting Started
+## Getting Started
 
-#### Next.js
+### Next.js
 
 In order to get the code running for the Next.js application, start here.
 
@@ -66,13 +66,13 @@ To start the dev server, run the following command inside the project folder:
 npm run dev
 ```
 
-### Phase 0
+## Phase 0
 
 Before we start trying to build an application its important to understand what we're doing.
 Phase 0 will be a period of independent research. You will be building simple sites and learning how React and Next.js work.
 To get started, check out the resources section for some good starting points, but feel free to watch other content.
 
-### Phase 1
+## Phase 1
 
 Our goal in phase 1 is to get the barebones app working. It doesn't have to be pretty, just somewhat functional.
 
@@ -82,17 +82,17 @@ By the end of phase 1, our application should allow users to:
 - Create posts
 - Like posts
 
-### Phase 2
+## Phase 2
 
 Our goal in phase 2 is to finish the web application. By the end, our application should look and act polished as well as include all the features defined at the top.
 
-### Phase 3
+## Phase 3
 
 Our goal in phase 3 is to make a companion mobile app that mirrors the functionality of our web app. During phase 3, the web application can still be worked on, but the end goal is to have a mobile app that has feature parity with the web app.
 
-### Resources
+## Resources
 
-#### Next.js and React
+### Next.js and React
 
 I strongly recommend the channel [Codevolution](https://www.youtube.com/@Codevolution).
 He makes tons of content about the technologies we'll be using throughout this project.
@@ -109,13 +109,13 @@ You will notice that all the videos in React Hooks Tutorial are in ReactJS Tutor
 
 Once you understand React, then you can work on learning Next.js. The Next.js 15 Tutorial is a great place to start.
 
-#### Expo
+### Expo
 
 For now, you should avoid Expo. Expo is based on React Native, a modified framework React built for mobile app development. Learning the concepts of React will translate pretty directly to developing with Expo and React Native.
 
 There are some differences, but these will be discussed when starting Phase 3.
 
-### Contributing
+## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.MD)
 
