@@ -1,4 +1,4 @@
-# 2025 Social Media Clone
+# Social Media Clone
 
 Our goal is to create a fully functional social media app.
 
